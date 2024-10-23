@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://plerverim.github.io/plerverim.plerverim
+Sitemap: https://plerverim.github.io/app/plerverim.plerverim
+Sitemap: https://plerverim.github.io/assets/plerverim.plerverim
+Sitemap: https://plerverim.github.io/css/plerverim.plerverim
+Sitemap: https://plerverim.github.io/includes/plerverim.plerverim
+Sitemap: https://plerverim.github.io/item/plerverim.plerverim
+Sitemap: https://plerverim.github.io/src/plerverim.plerverim
